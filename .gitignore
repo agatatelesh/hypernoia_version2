@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Hypernoia_SecondProdaction/[Ll]ibrary/
+Hypernoia_SecondProdaction/[Tt]emp/
+Hypernoia_SecondProdaction/[Oo]bj/
+Hypernoia_SecondProdaction/[Bb]uild/
+Hypernoia_SecondProdaction/[Bb]uilds/
+Hypernoia_SecondProdaction/[Ll]ogs/
+Hypernoia_SecondProdaction/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
